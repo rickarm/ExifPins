@@ -1,0 +1,40 @@
+<html>
+Reading JSON
+
+<script type="text/javascript" src="out.json"></script>
+<script type="text/javascript">
+	var temp = new Date('2013-07-20T23:19:33');
+	document.write(temp.valueOf() + "<br><br>");
+
+   function updateMe() {
+	var i=0;
+	var j=0;
+	var Lat=[];
+	var Long=[];
+	var Date=[];
+	var DateArray=[];
+	var DateRaw=[];
+	//var d = new Date()
+	
+	for (i in jsonstr) {
+        Lat[i] = jsonstr[i].GPSLatitude;
+        Long[i] = jsonstr[i].GPSLongitude;
+        Date[i] = jsonstr[i].DateTimeOriginal;
+		//var n = d.valueOf();
+		//Date[i] = d;
+        //DateRaw[i] = n;
+		document.write("-- Lat=" + Lat[i] + "-- Long="+ Long[i] + "-- Date=" + Date[i] + " -- DateRaw:" + DateRaw[i] + "<br>");
+	}
+	for (j in Date) {
+		var temp1 = new Date(Date[j]);
+		DateArray[j] = temp1;
+		}
+   }
+
+</script>
+
+  <body>
+    <button onclick="updateMe()">Try it</button>
+  </body>
+
+</html>

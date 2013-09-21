@@ -1,0 +1,1 @@
+exiftool -j -struct -d '%Y-%m-%dT%H:%M:%S' -DateTimeOriginal -Model -FileName -FileType  -GPSLatitude# -GPSLongitude# ~/Dropbox/"Camera Uploads" > out.json

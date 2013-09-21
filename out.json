@@ -1,0 +1,1037 @@
+jsonstr = [{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-20 23.19.33.jpg",
+  "DateTimeOriginal": "2013-07-20T23:19:33",
+  "Model": "iPhone 5",
+  "FileName": "2013-07-20 23.19.33.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.785,
+  "GPSLongitude": -122.464333333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-20 23.19.35.jpg",
+  "DateTimeOriginal": "2013-07-20T23:19:35",
+  "Model": "iPhone 5",
+  "FileName": "2013-07-20 23.19.35.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.7851666666667,
+  "GPSLongitude": -122.464333333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-25 21.29.19.jpg",
+  "FileName": "2013-07-25 21.29.19.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 10.47.37.jpg",
+  "DateTimeOriginal": "2013-07-26T10:47:37",
+  "Model": "iPhone 5",
+  "FileName": "2013-07-26 10.47.37.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2038333333333,
+  "GPSLongitude": -155.733833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 10.48.05.jpg",
+  "DateTimeOriginal": "2013-07-26T10:48:05",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 10.48.05.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2038333333333,
+  "GPSLongitude": -155.733833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 10.48.08.jpg",
+  "DateTimeOriginal": "2013-07-26T10:48:08",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 10.48.08.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2038333333333,
+  "GPSLongitude": -155.733833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 10.48.20.jpg",
+  "DateTimeOriginal": "2013-07-26T10:48:20",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 10.48.20.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2038333333333,
+  "GPSLongitude": -155.733833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 11.11.51.jpg",
+  "DateTimeOriginal": "2013-07-26T11:11:51",
+  "Model": "iPhone 5",
+  "FileName": "2013-07-26 11.11.51.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2051666666667,
+  "GPSLongitude": -155.731666666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 11.17.23.jpg",
+  "DateTimeOriginal": "2013-07-26T11:17:23",
+  "Model": "iPhone 5",
+  "FileName": "2013-07-26 11.17.23.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2033333333333,
+  "GPSLongitude": -155.732166666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 11.32.56.jpg",
+  "DateTimeOriginal": "2013-07-26T11:32:56",
+  "Model": "iPhone 5",
+  "FileName": "2013-07-26 11.32.56.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2035,
+  "GPSLongitude": -155.730833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 11.33.54.jpg",
+  "DateTimeOriginal": "2013-07-26T11:33:54",
+  "Model": "iPhone 5",
+  "FileName": "2013-07-26 11.33.54.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2035,
+  "GPSLongitude": -155.730833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 11.38.41.jpg",
+  "DateTimeOriginal": "2013-07-26T11:38:41",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 11.38.41.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.203,
+  "GPSLongitude": -155.730666666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 11.39.53.jpg",
+  "DateTimeOriginal": "2013-07-26T11:39:53",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 11.39.53.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2025,
+  "GPSLongitude": -155.730333333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.12.40.jpg",
+  "DateTimeOriginal": "2013-07-26T12:12:40",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.12.40.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2021666666667,
+  "GPSLongitude": -155.730833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.12.53.jpg",
+  "DateTimeOriginal": "2013-07-26T12:12:53",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.12.53.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2021666666667,
+  "GPSLongitude": -155.730833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.21.03.jpg",
+  "DateTimeOriginal": "2013-07-26T12:21:03",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.21.03.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2026666666667,
+  "GPSLongitude": -155.731
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.21.06.jpg",
+  "DateTimeOriginal": "2013-07-26T12:21:06",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.21.06.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2026666666667,
+  "GPSLongitude": -155.731
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.21.08.jpg",
+  "DateTimeOriginal": "2013-07-26T12:21:08",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.21.08.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2026666666667,
+  "GPSLongitude": -155.731
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.21.09.jpg",
+  "DateTimeOriginal": "2013-07-26T12:21:09",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.21.09.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2026666666667,
+  "GPSLongitude": -155.731
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.21.12.jpg",
+  "DateTimeOriginal": "2013-07-26T12:21:12",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.21.12.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2026666666667,
+  "GPSLongitude": -155.731
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.21.15.jpg",
+  "DateTimeOriginal": "2013-07-26T12:21:15",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.21.15.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2028333333333,
+  "GPSLongitude": -155.731
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.21.22.jpg",
+  "DateTimeOriginal": "2013-07-26T12:21:22",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.21.22.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2028333333333,
+  "GPSLongitude": -155.731
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.21.24.jpg",
+  "DateTimeOriginal": "2013-07-26T12:21:24",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.21.24.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2028333333333,
+  "GPSLongitude": -155.731
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.27.20.jpg",
+  "DateTimeOriginal": "2013-07-26T12:27:20",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.27.20.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2033333333333,
+  "GPSLongitude": -155.731666666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.27.41.jpg",
+  "DateTimeOriginal": "2013-07-26T12:27:41",
+  "Model": "Oggl",
+  "FileName": "2013-07-26 12.27.41.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.2033333333333,
+  "GPSLongitude": -155.731666666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 12.44.06.jpg",
+  "DateTimeOriginal": "2013-07-26T12:44:06",
+  "Model": "iPhone 5",
+  "FileName": "2013-07-26 12.44.06.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 20.205,
+  "GPSLongitude": -155.731666666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 13.21.50.jpg",
+  "DateTimeOriginal": "2013-07-26T13:21:50",
+  "Model": "iPhone 5",
+  "FileName": "2013-07-26 13.21.50.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 17.16.36-1.jpg",
+  "DateTimeOriginal": "2013-07-26T17:16:36",
+  "Model": "NIKON D7000",
+  "FileName": "2013-07-26 17.16.36-1.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 17.16.36.jpg",
+  "DateTimeOriginal": "2013-07-26T17:16:36",
+  "Model": "NIKON D7000",
+  "FileName": "2013-07-26 17.16.36.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 17.18.59-1.jpg",
+  "DateTimeOriginal": "2013-07-26T17:18:59",
+  "Model": "NIKON D7000",
+  "FileName": "2013-07-26 17.18.59-1.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 17.18.59-2.jpg",
+  "DateTimeOriginal": "2013-07-26T17:18:59",
+  "Model": "NIKON D7000",
+  "FileName": "2013-07-26 17.18.59-2.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.7535,
+  "GPSLongitude": -122.424
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 17.19.59-1.jpg",
+  "DateTimeOriginal": "2013-07-26T17:19:59",
+  "Model": "NIKON D7000",
+  "FileName": "2013-07-26 17.19.59-1.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-26 17.19.59.jpg",
+  "DateTimeOriginal": "2013-07-26T17:19:59",
+  "Model": "NIKON D7000",
+  "FileName": "2013-07-26 17.19.59.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-07-29 00.36.21.jpg",
+  "DateTimeOriginal": "2013-07-29T00:36:21",
+  "Model": "NIKON D7000",
+  "FileName": "2013-07-29 00.36.21.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.7805,
+  "GPSLongitude": -122.4025
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-03 06.48.55.jpg",
+  "DateTimeOriginal": "2013-08-03T06:48:55",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-03 06.48.55.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.618,
+  "GPSLongitude": -122.394166666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-03 22.41.45.jpg",
+  "DateTimeOriginal": "2013-08-03T22:41:45",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-03 22.41.45.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 8.9535,
+  "GPSLongitude": -79.5371666666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-04 08.25.18-1.jpg",
+  "DateTimeOriginal": "2013-08-04T08:25:18",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-04 08.25.18-1.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 8.9535,
+  "GPSLongitude": -79.5371666666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-04 08.25.18.jpg",
+  "DateTimeOriginal": "2013-08-04T08:25:18",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-04 08.25.18.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 8.9535,
+  "GPSLongitude": -79.5371666666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-04 08.59.03.jpg",
+  "DateTimeOriginal": "2013-08-04T08:59:03",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-04 08.59.03.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 8.96966666666667,
+  "GPSLongitude": -79.5616666666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-04 18.20.54.jpg",
+  "DateTimeOriginal": "2013-08-04T18:20:54",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-04 18.20.54.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 8.95466666666667,
+  "GPSLongitude": -79.5353333333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-05 12.04.58-1.jpg",
+  "DateTimeOriginal": "2013-08-05T12:04:58",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-05 12.04.58-1.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 8.78316666666667,
+  "GPSLongitude": -82.432
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-05 12.04.58-2.jpg",
+  "DateTimeOriginal": "2013-08-05T12:04:58",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-05 12.04.58-2.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 8.78316666666667,
+  "GPSLongitude": -82.432
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 09.51.52.jpg",
+  "DateTimeOriginal": "2013-08-06T09:51:52",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 09.51.52.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 09.52.09.jpg",
+  "DateTimeOriginal": "2013-08-06T09:52:09",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 09.52.09.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 14.39.16-1.jpg",
+  "DateTimeOriginal": "2013-08-06T14:39:16",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 14.39.16-1.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 14.39.16-2.jpg",
+  "DateTimeOriginal": "2013-08-06T14:39:16",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 14.39.16-2.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 14.39.16.jpg",
+  "DateTimeOriginal": "2013-08-06T14:39:16",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 14.39.16.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 14.39.32.jpg",
+  "DateTimeOriginal": "2013-08-06T14:39:32",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 14.39.32.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 16.11.09.jpg",
+  "DateTimeOriginal": "2013-08-06T16:11:09",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 16.11.09.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 16.11.18.jpg",
+  "DateTimeOriginal": "2013-08-06T16:11:18",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 16.11.18.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 16.45.38.jpg",
+  "DateTimeOriginal": "2013-08-06T16:45:38",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 16.45.38.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 16.45.44.jpg",
+  "DateTimeOriginal": "2013-08-06T16:45:44",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 16.45.44.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 16.46.05-1.jpg",
+  "DateTimeOriginal": "2013-08-06T16:46:05",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 16.46.05-1.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 16.46.05-2.jpg",
+  "DateTimeOriginal": "2013-08-06T16:46:05",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 16.46.05-2.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 16.46.05-3.jpg",
+  "DateTimeOriginal": "2013-08-06T16:46:05",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 16.46.05-3.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.7535,
+  "GPSLongitude": -122.423833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 16.46.05.jpg",
+  "DateTimeOriginal": "2013-08-06T16:46:05",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 16.46.05.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-06 16.46.18.jpg",
+  "DateTimeOriginal": "2013-08-06T16:46:18",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-06 16.46.18.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 12.30.28.jpg",
+  "DateTimeOriginal": "2013-08-08T12:30:28",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 12.30.28.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 12.33.57.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 12.33.57.mov",
+  "FileType": "MOV"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 15.04.48.jpg",
+  "DateTimeOriginal": "2013-08-08T15:04:48",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 15.04.48.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 9.56066666666667,
+  "GPSLongitude": -79.667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 15.05.03-1.jpg",
+  "DateTimeOriginal": "2013-08-08T15:05:03",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 15.05.03-1.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 9.56066666666667,
+  "GPSLongitude": -79.667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 15.05.03.jpg",
+  "DateTimeOriginal": "2013-08-08T15:05:03",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 15.05.03.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 9.56066666666667,
+  "GPSLongitude": -79.667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 15.05.10.jpg",
+  "DateTimeOriginal": "2013-08-08T15:05:10",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 15.05.10.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 9.56066666666667,
+  "GPSLongitude": -79.667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 20.04.15.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 20.04.15.mov",
+  "FileType": "MOV",
+  "GPSLatitude": 9.5605,
+  "GPSLongitude": -79.667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 20.08.43.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 20.08.43.mov",
+  "FileType": "MOV",
+  "GPSLatitude": 9.5606,
+  "GPSLongitude": -79.6671
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 20.09.45.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 20.09.45.mov",
+  "FileType": "MOV",
+  "GPSLatitude": 9.5605,
+  "GPSLongitude": -79.6671
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 20.12.08.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 20.12.08.mov",
+  "FileType": "MOV",
+  "GPSLatitude": 9.5611,
+  "GPSLongitude": -79.6672
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 20.14.08.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 20.14.08.mov",
+  "FileType": "MOV",
+  "GPSLatitude": 9.5608,
+  "GPSLongitude": -79.6671
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 20.15.47.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 20.15.47.mov",
+  "FileType": "MOV",
+  "GPSLatitude": 9.5606,
+  "GPSLongitude": -79.6671
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-08 20.18.54.jpg",
+  "DateTimeOriginal": "2013-08-08T20:18:54",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-08 20.18.54.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 9.56066666666667,
+  "GPSLongitude": -79.667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-10 11.50.55-1.jpg",
+  "DateTimeOriginal": "2013-08-10T11:50:55",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-10 11.50.55-1.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 9.5605,
+  "GPSLongitude": -79.667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-10 11.50.55-2.jpg",
+  "DateTimeOriginal": "2013-08-10T11:50:55",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-10 11.50.55-2.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 9.5605,
+  "GPSLongitude": -79.667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-11 16.48.38.jpg",
+  "DateTimeOriginal": "2013-08-11T16:48:38",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-11 16.48.38.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 8.98916666666667,
+  "GPSLongitude": -79.528
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-15 17.49.03.jpg",
+  "DateTimeOriginal": "2013-08-15T17:49:03",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-15 17.49.03.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 19.3206666666667,
+  "GPSLongitude": -81.382
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-15 17.50.33.jpg",
+  "DateTimeOriginal": "2013-08-15T17:50:33",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-15 17.50.33.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 19.3206666666667,
+  "GPSLongitude": -81.382
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-15 17.54.56.jpg",
+  "DateTimeOriginal": "2013-08-15T17:54:56",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-15 17.54.56.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 19.3206666666667,
+  "GPSLongitude": -81.382
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-16 05.57.52.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-16 05.57.52.mov",
+  "FileType": "MOV"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-16 05.58.07.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-16 05.58.07.mov",
+  "FileType": "MOV"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-16 07.57.12.jpg",
+  "DateTimeOriginal": "2013-08-16T07:57:12",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-16 07.57.12.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-16 07.57.19.jpg",
+  "DateTimeOriginal": "2013-08-16T07:57:19",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-16 07.57.19.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-16 07.57.23.jpg",
+  "DateTimeOriginal": "2013-08-16T07:57:23",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-16 07.57.23.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 08.21.59.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 08.21.59.mov",
+  "FileType": "MOV"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 08.23.13.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 08.23.13.mov",
+  "FileType": "MOV"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 08.23.44.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 08.23.44.mov",
+  "FileType": "MOV"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 08.29.00.mov",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 08.29.00.mov",
+  "FileType": "MOV"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.17.47.jpg",
+  "DateTimeOriginal": "2013-08-17T10:17:47",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.17.47.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.18.11.jpg",
+  "DateTimeOriginal": "2013-08-17T10:18:11",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.18.11.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.18.51.jpg",
+  "DateTimeOriginal": "2013-08-17T10:18:51",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.18.51.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.18.55.jpg",
+  "DateTimeOriginal": "2013-08-17T10:18:55",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.18.55.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.20.27.jpg",
+  "DateTimeOriginal": "2013-08-17T10:20:27",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.20.27.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.20.32.jpg",
+  "DateTimeOriginal": "2013-08-17T10:20:32",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.20.32.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.20.48.jpg",
+  "DateTimeOriginal": "2013-08-17T10:20:48",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.20.48.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.20.50.jpg",
+  "DateTimeOriginal": "2013-08-17T10:20:50",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.20.50.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.20.57.jpg",
+  "DateTimeOriginal": "2013-08-17T10:20:57",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.20.57.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.21.10.jpg",
+  "DateTimeOriginal": "2013-08-17T10:21:10",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.21.10.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.21.15.jpg",
+  "DateTimeOriginal": "2013-08-17T10:21:15",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.21.15.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.21.17.jpg",
+  "DateTimeOriginal": "2013-08-17T10:21:17",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.21.17.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-17 10.21.33.jpg",
+  "DateTimeOriginal": "2013-08-17T10:21:33",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-17 10.21.33.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-18 11.52.55.jpg",
+  "DateTimeOriginal": "2013-08-18T11:52:55",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-18 11.52.55.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-26 08.08.39.jpg",
+  "DateTimeOriginal": "2013-08-26T08:08:39",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-26 08.08.39.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.7583333333333,
+  "GPSLongitude": -122.386833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-30 17.22.55.jpg",
+  "DateTimeOriginal": "2013-08-30T17:22:55",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-30 17.22.55.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-31 14.17.57.jpg",
+  "DateTimeOriginal": "2013-08-31T14:17:57",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-31 14.17.57.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 38.4826666666667,
+  "GPSLongitude": -122.435
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-31 14.18.05.jpg",
+  "DateTimeOriginal": "2013-08-31T14:18:05",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-31 14.18.05.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 38.4826666666667,
+  "GPSLongitude": -122.435
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-31 14.18.24.jpg",
+  "DateTimeOriginal": "2013-08-31T14:18:24",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-31 14.18.24.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 38.4825,
+  "GPSLongitude": -122.435166666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-08-31 17.35.10.jpg",
+  "DateTimeOriginal": "2013-08-31T17:35:10",
+  "Model": "iPhone 5",
+  "FileName": "2013-08-31 17.35.10.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.8426666666667,
+  "GPSLongitude": -122.485666666667
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-02 15.59.21.jpg",
+  "DateTimeOriginal": "2013-09-02T15:59:21",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-02 15.59.21.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.7535,
+  "GPSLongitude": -122.423833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-02 16.01.29.jpg",
+  "DateTimeOriginal": "2013-09-02T16:01:29",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-02 16.01.29.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.7535,
+  "GPSLongitude": -122.423833333333
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-07 15.04.34.jpg",
+  "DateTimeOriginal": "2013-09-07T15:04:34",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-07 15.04.34.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.7848333333333,
+  "GPSLongitude": -121.9495
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-07 15.04.42.jpg",
+  "DateTimeOriginal": "2013-09-07T15:04:42",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-07 15.04.42.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.7848333333333,
+  "GPSLongitude": -121.9495
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-07 15.04.53.jpg",
+  "DateTimeOriginal": "2013-09-07T15:04:53",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-07 15.04.53.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.7848333333333,
+  "GPSLongitude": -121.9495
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-07 19.42.59.jpg",
+  "DateTimeOriginal": "2013-09-07T19:42:59",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-07 19.42.59.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.4583333333333,
+  "GPSLongitude": -122.151
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-07 19.43.04.jpg",
+  "DateTimeOriginal": "2013-09-07T19:43:04",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-07 19.43.04.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.4583333333333,
+  "GPSLongitude": -122.151
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-07 19.43.09.jpg",
+  "DateTimeOriginal": "2013-09-07T19:43:09",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-07 19.43.09.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.4583333333333,
+  "GPSLongitude": -122.151
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-07 19.49.49-1.jpg",
+  "DateTimeOriginal": "2013-09-07T19:49:49",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-07 19.49.49-1.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.4583333333333,
+  "GPSLongitude": -122.151
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-07 19.49.49.jpg",
+  "DateTimeOriginal": "2013-09-07T19:49:49",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-07 19.49.49.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.4583333333333,
+  "GPSLongitude": -122.151
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-07 21.10.31.jpg",
+  "DateTimeOriginal": "2013-09-07T21:10:31",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-07 21.10.31.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.4583333333333,
+  "GPSLongitude": -122.151
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-07 21.10.35.jpg",
+  "DateTimeOriginal": "2013-09-07T21:10:35",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-07 21.10.35.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.4583333333333,
+  "GPSLongitude": -122.151
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-10 15.58.27.png",
+  "FileName": "2013-09-10 15.58.27.png",
+  "FileType": "PNG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-10 16.22.09.png",
+  "FileName": "2013-09-10 16.22.09.png",
+  "FileType": "PNG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-10 17.28.49.jpg",
+  "FileName": "2013-09-10 17.28.49.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-10 17.35.41.jpg",
+  "FileName": "2013-09-10 17.35.41.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-10 17.39.05.jpg",
+  "FileName": "2013-09-10 17.39.05.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-10 17.39.49.jpg",
+  "FileName": "2013-09-10 17.39.49.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-10 17.40.51.jpg",
+  "FileName": "2013-09-10 17.40.51.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-10 19.29.09.jpg",
+  "FileName": "2013-09-10 19.29.09.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-11 09.51.39.png",
+  "FileName": "2013-09-11 09.51.39.png",
+  "FileType": "PNG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-11 09.52.59.png",
+  "FileName": "2013-09-11 09.52.59.png",
+  "FileType": "PNG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-13 09.12.53.jpg",
+  "DateTimeOriginal": "2013-09-13T09:12:53",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-13 09.12.53.jpg",
+  "FileType": "JPEG"
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-13 11.57.50-1.jpg",
+  "DateTimeOriginal": "2013-09-13T11:57:50",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-13 11.57.50-1.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.752,
+  "GPSLongitude": -122.4275
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-13 11.57.50-2.jpg",
+  "DateTimeOriginal": "2013-09-13T11:57:50",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-13 11.57.50-2.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.752,
+  "GPSLongitude": -122.4275
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-13 11.57.50-3.jpg",
+  "DateTimeOriginal": "2013-09-13T11:57:50",
+  "Model": "Oggl",
+  "FileName": "2013-09-13 11.57.50-3.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.752,
+  "GPSLongitude": -122.4275
+},
+{
+  "SourceFile": "/Users/rick/Dropbox/Camera Uploads/2013-09-13 11.58.02.jpg",
+  "DateTimeOriginal": "2013-09-13T11:58:02",
+  "Model": "iPhone 5",
+  "FileName": "2013-09-13 11.58.02.jpg",
+  "FileType": "JPEG",
+  "GPSLatitude": 37.752,
+  "GPSLongitude": -122.4275
+}]
