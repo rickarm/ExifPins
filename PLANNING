@@ -1,0 +1,16 @@
+Functions needed
+(1) Location parsing
+(2) Date parsing
+(3) Category parsing
+(4) Writing parsed data to EXIF
+
+# 
+
+
+# Category parsing
+Create variable for metadata (filename, folder name, keywords)
+Load whitelist into array
+Check if whitelist exists in metadata
+	Write any matches into array
+If location is greater than 100 miles, write "*vacation" into array
+Write array into EXIF

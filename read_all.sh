@@ -1,0 +1,1 @@
+exiftool -j -struct ~/Dropbox/"Camera Uploads" > out_all.json
